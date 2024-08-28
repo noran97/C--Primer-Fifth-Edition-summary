@@ -1,1 +1,1 @@
-# C--Primer-Fifth-Edition-summary
+# NTI-AI-projects
